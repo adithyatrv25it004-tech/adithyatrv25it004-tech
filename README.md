@@ -26,17 +26,15 @@ and exploring new technologies.
 ## 🚀 Featured Project
 
 ### 🧹 Cleanopia
-## 📸 Gameplay
-
-![Cleanopia Gameplay](gameplay.png)
 
 A Roblox game currently in development, focused on
 interactive gameplay and creative game mechanics.
 
 🎮 [Play Cleanopia Test Server](https://www.roblox.com/games/99495199267066/Cleanopia)
 
----
+### 📸 Gameplay
 
+![Cleanopia Gameplay](gameplay.png)
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithya.artmusic/)
