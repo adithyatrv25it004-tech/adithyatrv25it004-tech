@@ -33,8 +33,7 @@ interactive gameplay and creative game mechanics.
 🎮 [Play Cleanopia Test Server](https://www.roblox.com/games/99495199267066/Cleanopia)
 
 ### 📸 Gameplay
-
-![Cleanopia Gameplay](gameplay.png)
+![Cleanopia Gameplay](gameplay.png.PNG)
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithya.artmusic/)
