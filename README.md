@@ -26,6 +26,9 @@ and exploring new technologies.
 ## 🚀 Featured Project
 
 ### 🧹 Cleanopia
+## 📸 Gameplay
+
+![Cleanopia Gameplay](gameplay.png)
 
 A Roblox game currently in development, focused on
 interactive gameplay and creative game mechanics.
